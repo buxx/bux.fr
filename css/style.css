@@ -1023,3 +1023,8 @@ article#work section.box {
 article#work section p{
   display: none;
 }
+
+.box.box-style1.prez {
+    margin-left: 10%;
+    margin-right: 10%;
+}
