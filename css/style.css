@@ -1028,3 +1028,9 @@ article#work section p{
     margin-left: 10%;
     margin-right: 10%;
 }
+
+.wrapper ul li {
+    list-style-type: disc;
+    margin-left: 25px;
+    text-align: left;
+}
